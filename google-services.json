@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780698215440",
+    "project_id": "dalla-b5796",
+    "storage_bucket": "dalla-b5796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780698215440:android:3d80c12870a4eb89235695",
+        "android_client_info": {
+          "package_name": "com.dalla.dalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIvNdBu4QJVMkyX-uBh2JoRIwf8OaKqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
